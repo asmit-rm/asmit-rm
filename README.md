@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%">
+<img src="assets/hero.svg" width="100%" alt="PROXY Hero">
 
 # 👋 Hi, I'm Asmit Kumar Bera
 
 ### AI Developer • Telegram Bot Engineer • Robotics Student
 
 > Building intelligent automation, AI-powered systems, and scalable Telegram infrastructure.
-
-<img src="assets/terminal.svg" width="100%">
 
 </div>
 
