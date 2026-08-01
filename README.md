@@ -60,13 +60,7 @@ Focus
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=asmit-rm&theme=github-dark&hide_border=true"/>
-
-</p>
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -84,11 +78,17 @@ Focus
 
 # 📬 Contact
 
-Telegram:
-@REVULET
+<p align="center">
 
-GitHub:
-https://github.com/asmit-rm
+<a href="https://t.me/REVULET">
+<img src="https://img.shields.io/badge/Telegram-REVULET-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asmit-rm">
+<img src="https://img.shields.io/badge/GitHub-asmit--rm-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
