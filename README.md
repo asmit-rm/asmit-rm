@@ -53,13 +53,13 @@ Focus
 
 </div>
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=github-dark&hide_border=true&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true&radius=16"/>
 
-</p>
+</div>
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -69,11 +69,11 @@ Focus
 </p>
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/asmit-rm/asmit-rm/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/asmit-rm/asmit-rm/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
 # 🚀 Featured Projects
 
 - 🤖 Telegram Bots
