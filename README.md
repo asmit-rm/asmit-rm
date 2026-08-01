@@ -39,27 +39,7 @@ Focus
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=asmit-rm&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 # 📈 Contribution Graph
 
