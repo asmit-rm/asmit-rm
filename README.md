@@ -39,14 +39,19 @@ Focus
 
 ---
 
-# 📈 Github Statistics 
-<p align="center">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+# 📊 GitHub Statistics
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=asmit-rm&theme=tokyonight&hide_border=true" />
+
+</div>
 
 # 📈 Activity Graph
 
