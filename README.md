@@ -43,23 +43,21 @@ Focus
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-Coming Soon...
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=transparent&hide_border=true"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=transparent&hide_border=true"/>
 
----
+</div>
 
 # 📈 Activity Graph
 
 <p align="center">
 
-Coming Soon...
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=github-dark&hide_border=true&radius=12"/>
 
 </p>
-
----
 
 # 🚀 Featured Projects
 
