@@ -58,7 +58,13 @@ Focus
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=github-dark&hide_border=true&radius=12"/>
 
 </p>
+# 🔥 GitHub Streak
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=asmit-rm&theme=github-dark&hide_border=true"/>
+
+</p>
 # 🚀 Featured Projects
 
 - 🤖 Telegram Bots
