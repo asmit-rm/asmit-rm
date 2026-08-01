@@ -41,17 +41,25 @@ Focus
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmit-rm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit-rm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br><br>
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=asmit-rm&theme=tokyonight&hide_border=true" />
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=asmit-rm&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 # 📈 Contribution Graph
 
