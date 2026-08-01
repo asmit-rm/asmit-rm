@@ -1,23 +1,86 @@
+<div align="center">
+
+<img src="assets/banner.svg" width="100%">
+
+# 👋 Hi, I'm Asmit Kumar Bera
+
+### AI Developer • Telegram Bot Engineer • Robotics Student
+
+> Building intelligent automation, AI-powered systems, and scalable Telegram infrastructure.
+
+<img src="assets/terminal.svg" width="100%">
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```text
+Name      : Asmit Kumar Bera
+Alias     : PROXY
+GitHub    : asmit-rm
+Telegram  : @REVULET
+
+Focus
+• Artificial Intelligence
+• Telegram Bot Development
+• Automation
+• Robotics
+```
+
+---
+
+# 🛠 Tech Stack
+
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal">
+
+<img src="https://skillicons.dev/icons?i=python,git,linux,docker,postgresql,vscode,github"/>
+
 </p>
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner">
+
+Coming Soon...
+
 </p>
 
-## Hi there 👋
+---
 
-<!--
-**asmit-rm/asmit-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📈 Activity Graph
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming Soon...
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 🤖 Telegram Bots
+- 🧠 AI Projects
+- 🌐 Web Applications
+
+---
+
+# 📬 Contact
+
+Telegram:
+@REVULET
+
+GitHub:
+https://github.com/asmit-rm
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Asmit Kumar Bera**
+
+</div>
