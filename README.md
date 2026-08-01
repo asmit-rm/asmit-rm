@@ -65,6 +65,13 @@ Focus
 <img src="https://streak-stats.demolab.com?user=asmit-rm&theme=github-dark&hide_border=true"/>
 
 </p>
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/asmit-rm/asmit-rm/output/github-contribution-grid-snake.svg"/>
+
+</p>
 # 🚀 Featured Projects
 
 - 🤖 Telegram Bots
