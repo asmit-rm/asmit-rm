@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="PROXY Hero">
+<img src="assets/hero.svg" width="100%" alt="Hero">
+
+<br>
+
+<img src="assets/portrait.png" width="180" style="border-radius:50%;" alt="Asmit Kumar Bera">
 
 # 👋 Hi, I'm Asmit Kumar Bera
 
