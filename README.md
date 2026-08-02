@@ -6,23 +6,7 @@
 
 ### AI Developer • Telegram Bot Engineer • Robotics Student
 
-<p>
-Building intelligent automation, AI-powered systems,<br>
-Telegram infrastructure and next-generation robotics.
-</p>
-
-<p>
-<a href="https://github.com/asmit-rm">
-<img src="https://img.shields.io/github/followers/asmit-rm?style=for-the-badge&logo=github&color=58A6FF"/>
-</a>
-
-<a href="https://t.me/REVULET">
-<img src="https://img.shields.io/badge/Telegram-@REVULET-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=asmit-rm&style=for-the-badge&color=0E75B6"/>
-
-</p>
+> Building intelligent automation, AI-powered systems, and scalable Telegram infrastructure.
 
 </div>
 
@@ -31,20 +15,16 @@ Telegram infrastructure and next-generation robotics.
 # 🚀 About Me
 
 ```text
-👤 Name       : Asmit Kumar Bera
-⚡ Alias      : PROXY
+Name      : Asmit Kumar Bera
+Alias     : PROXY
+GitHub    : asmit-rm
+Telegram  : @REVULET
 
-🎓 Student    : Robotics & Automation
-
-💻 Interests
+Focus
 • Artificial Intelligence
 • Telegram Bot Development
-• Backend Systems
 • Automation
 • Robotics
-• Cyber Security
-
-📍 Country    : India
 ```
 
 ---
@@ -53,51 +33,47 @@ Telegram infrastructure and next-generation robotics.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,postgresql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,git,linux,docker,postgresql,vscode,github"/>
 
 </p>
 
 ---
 
-# 🧠 Current Focus
 
-- 🤖 AI Projects
-- ⚙️ Telegram Bot Infrastructure
-- 🌐 Backend Development
-- 🚀 Robotics & Automation
-
----
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asmit-rm&theme=tokyo-night&hide_border=true&radius=16"/>
 
-</p>
-
----
+</div>
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/asmit-rm/asmit-rm/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/asmit-rm/asmit-rm/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
+# 🚀 Featured Projects
+
+- 🤖 Telegram Bots
+- 🧠 AI Projects
+- 🌐 Web Applications
 
 ---
 
-# 📬 Connect With Me
+# 📬 Contact
 
 <p align="center">
 
-<a href="https://github.com/asmit-rm">
-<img src="https://img.shields.io/badge/GitHub-asmit--rm-181717?style=for-the-badge&logo=github"/>
+<a href="https://t.me/REVULET">
+<img src="https://img.shields.io/badge/Telegram-REVULET-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://t.me/REVULET">
-<img src="https://img.shields.io/badge/Telegram-@REVULET-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://github.com/asmit-rm">
+<img src="https://img.shields.io/badge/GitHub-asmit--rm-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -105,8 +81,6 @@ Telegram infrastructure and next-generation robotics.
 ---
 
 <div align="center">
-
-### ⚡ Building the Future with AI + Automation + Robotics ⚡
 
 Made with ❤️ by **Asmit Kumar Bera**
 
