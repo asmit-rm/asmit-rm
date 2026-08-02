@@ -1,31 +1,67 @@
 from pathlib import Path
+
+from PIL import Image, ImageEnhance, ImageOps
 from rembg import remove
-from PIL import Image, ImageOps
 
 INPUT = Path("input/profile.jpg")
 OUTPUT = Path("assets/portrait.png")
 
-if not INPUT.exists():
-    raise FileNotFoundError(f"{INPUT} not found")
+SIZE = 700
 
-print("[1/5] Loading image...")
-img = Image.open(INPUT).convert("RGBA")
 
-print("[2/5] Removing background...")
-img = remove(img)
+def crop_square(img):
+    w, h = img.size
 
-print("[3/5] Cropping to square...")
-img = ImageOps.contain(img, (700, 700))
+    side = min(w, h)
 
-canvas = Image.new("RGBA", (700, 700), (0, 0, 0, 0))
+    left = (w - side) // 2
+    top = (h - side) // 2
 
-x = (700 - img.width) // 2
-y = (700 - img.height) // 2
+    return img.crop((left, top, left + side, top + side))
 
-canvas.paste(img, (x, y), img)
 
-print("[4/5] Saving portrait...")
-canvas.save(OUTPUT)
+def main():
+    print("[1/6] Loading image...")
+    img = Image.open(INPUT).convert("RGBA")
 
-print("[5/5] Done!")
-print(f"✅ Generated: {OUTPUT}")
+    print("[2/6] Removing background...")
+    img = remove(img)
+
+    print("[3/6] Cropping...")
+    img = crop_square(img)
+
+    print("[4/6] Enhancing...")
+
+    rgb = img.convert("RGB")
+
+    rgb = ImageEnhance.Contrast(rgb).enhance(1.45)
+    rgb = ImageEnhance.Sharpness(rgb).enhance(2.2)
+    rgb = ImageEnhance.Color(rgb).enhance(1.08)
+
+    alpha = img.getchannel("A")
+
+    img = rgb.convert("RGBA")
+    img.putalpha(alpha)
+
+    print("[5/6] Resizing...")
+
+    img = ImageOps.contain(img, (SIZE, SIZE), method=Image.Resampling.LANCZOS)
+
+    canvas = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
+
+    x = (SIZE - img.width) // 2
+    y = (SIZE - img.height) // 2
+
+    canvas.paste(img, (x, y), img)
+
+    print("[6/6] Saving...")
+
+    OUTPUT.parent.mkdir(exist_ok=True)
+
+    canvas.save(OUTPUT)
+
+    print(f"✅ Generated: {OUTPUT}")
+
+
+if __name__ == "__main__":
+    main()
