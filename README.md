@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=190&section=header&text=Asmit%20Kumar%20Bera&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=aka%20Proxy&descAlignY=60&descSize=20" width="100%" alt="Asmit Kumar Bera Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=190&section=header&text=Asmit%20Kumar%20Bera&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=🌐%20Proxy&descAlignY=60&descSize=20" width="100%" alt="Asmit Kumar Bera Header" />
 </p>
 
 <p align="center">
