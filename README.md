@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/visual-map.gif" width="100%" style="max-width: 420px;" alt="Asmit Kumar Bera - Visual Map" />
+  <img src="visual-map.gif" width="100%" style="max-width: 420px;" alt="Asmit Kumar Bera - Visual Map" />
 </p>
 
 <p align="center">
